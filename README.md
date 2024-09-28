@@ -14,11 +14,11 @@
     <a href="#usage"><strong>Explore the queries »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KosyEzenwaji/yourrepository">View Demo</a>
+    <a href="https://github.com/KosyEzenwaji/AdventureWorks-SQL-Queries">View Demo</a>
     ·
-    <a href="https://github.com/KosyEzenwaji/yourrepository/issues">Report Bug</a>
+    <a href="https://github.com/KosyEzenwaji/AdventureWorks-SQL-Queries/issues">Report Bug</a>
     ·
-    <a href="https://github.com/KosyEzenwaji/yourrepository/issues">Request Feature</a>
+    <a href="https://github.com/KosyEzenwaji/AdventureWorks-SQL-Queries/issues">Request Feature</a>
   </p>
 </p>
 
@@ -81,7 +81,6 @@ The repository contains SQL queries to address various business questions. Below
      where ((Gender = 'F') and (Year(BirthDate) between 1972 and 1975) and (Year(HireDate) in (2001,2002))
      or ((Gender = 'M') and (Year(BirthDate) between 1962 and 1970) and (Year(HireDate) > 2001)));
      ```
-     For more examples and detailed queries, refer to the [query list](#queries)
 
 ## Contributing
 
