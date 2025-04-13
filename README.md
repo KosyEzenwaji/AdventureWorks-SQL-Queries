@@ -1,8 +1,5 @@
 # AdventureWorks SQL Queries
 
-<!-- PROJECT SHIELD -->
-![License](https://img.shields.io/badge/license-MIT-green)
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -31,7 +28,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -97,10 +93,6 @@ The open-source community is an incredible place to learn, be inspired, and deve
 ### Reporting Issues:
 If you encounter any issues with the queries or have suggestions for improvement, please feel free to open an issue with a detailed description of the problem.
 
-     <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
